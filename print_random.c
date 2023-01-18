@@ -8,7 +8,8 @@ int main()
 {
 	int a;
 
-	/* seed the randomizer */
+// i will edit later	
+/* seed the randomizer */
 	srand( (unsigned)time(NULL) );
 
 	printf("Today's random word: ");
